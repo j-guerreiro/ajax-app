@@ -1,0 +1,38 @@
+/* mobile breakpoint */
+@media screen and ( max-width: 400px) {
+  .header {
+    flex-flow: column wrap;
+    overflow: hidden;
+  }
+
+  .header img {
+    width: 40vw;
+    height: 35vh;
+  }
+}
+
+/* tablet breakpoint */
+@media screen and ( max-width: 768px) {
+  .header {
+    flex-flow: column wrap;
+    overflow: hidden;
+  }
+
+  .header img {
+    width: 40vw;
+    height: 35vh;
+  }
+}
+
+/* tablet breakpoint */
+@media screen and ( max-width: 1024px) {
+  .header {
+    flex-flow: column wrap;
+    overflow: hidden;
+  }
+
+  .header img {
+    width: 40vw;
+    height: 35vh;
+  }
+}
